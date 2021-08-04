@@ -8,20 +8,16 @@ This recipe is from my dad and they are a favorite among friends and family. The
 
 * Butter
 * White sugar
-* Brown sugar
-* Eggs
-* Vanilla
 * Flour
 * Baking soda
 * Salt
 * Chocolate chips
 * Oatmeal
 * Coconut
-* Peanut butter
 
 ## Directions
 
-1. Preheat the oven to 325.
+1. Preheat the oven to 325 or 425
 2. Beat the butter, sugar, eggs and vanilla together until creamy.
 3. Mix together the flour, baking soda and salt in a separate bowl.
 4. Add flour mixture to butter mixture slowly.
